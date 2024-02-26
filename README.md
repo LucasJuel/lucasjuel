@@ -4,7 +4,7 @@ Welcome to my Github!.. 🎉
 
 I'm a student at DTU, studying Softwaretechnology📚. Which has given me profeciency in:
 - C
-- Java💻
+- Java
 - Python
 - Software Development principles like SOLID.
 
@@ -17,6 +17,16 @@ I also indulge in crazy projects on my own, like starting a webdevelopment compa
 
 I'm an extensive learner and love to learn about anything and everything! I am always ready to indulge in new projects to widen my horizon.
 
+I'm academically fluent in English and Danish.
+
+Best Regards,
+
+Lucas J. Sjøstrøm.
+
+📫 How to reach me: 
+- E-Mail: lucas.juel.sjostrom@gmail.com
+
+
 <!--
 **LucasJuel/lucasjuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +37,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
