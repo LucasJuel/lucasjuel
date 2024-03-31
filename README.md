@@ -3,7 +3,7 @@
 Welcome to my Github!.. 🎉
 
 I'm a student at DTU, studying Softwaretechnology📚. Which has given me profeciency in:
-- C
+- C, C#, C++
 - Java
 - Python
 - Software Development principles like SOLID.
