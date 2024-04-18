@@ -3,13 +3,13 @@
 Welcome to my Github!.. 🎉
 
 I'm a student at DTU, studying Software Technology📚. Which has given me profeciency in:
-- C, C#, C++
+- C, C#
 - Java
 - Python
 - Software Development principles like SOLID.
 
 I also indulge in crazy projects on my own, like starting a webdevelopment company called Webased💻. This has given me proficiency in languages like,
-- C#
+- C#, C++
 - Javascript / Typescript
   - React
 - HTML
