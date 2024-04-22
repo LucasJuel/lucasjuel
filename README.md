@@ -4,6 +4,7 @@ Welcome to my Github!.. 🎉
 
 I'm a student at DTU, studying Software Technology📚. Which has given me profeciency in:
 - C, C#
+- F#
 - Java
 - Python
 - Software Development principles like SOLID.
