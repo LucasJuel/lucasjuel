@@ -2,14 +2,14 @@
 
 Welcome to my Github!.. 🎉
 
-I'm a student at DTU, studying Software Technology📚. Which has given me proficiency in:
+I'm a student at DTU, studying MSc. Computer Science and Engineering 📚. Which has given me proficiency in:
 - C, C#
 - F#
 - Java
 - Python
 - Software Development principles like SOLID.
 
-I also indulge in crazy projects on my own, like starting a webdevelopment company called Webased💻. This has given me proficiency in languages like,
+I also indulge in crazy projects on my own, like starting a web-development company called Webased💻. This has given me proficiency in languages like,
 - C#, C++
 - Javascript / Typescript
   - React
